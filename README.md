@@ -1,11 +1,12 @@
 ## Hey there 👋
 
-![discord](https://img.shields.io/badge/RuthlessJailer%230001-Discord-36393f?logo=Discord&link=https://discord.gg/h3b5DYpNBu)
+[![discord](https://img.shields.io/badge/RuthlessJailer%230001-Discord-36393f?logo=Discord)](https://discord.gg/h3b5DYpNBu)
 
 I am ✨ _special_ ✨ because I exist, unlike you. <sub>wait then how are you reading this</sub>
 
 ### you might not be able to tell, but I'm a developer
 
+If nerd stuff scares you, then <del><sub>why are you here</sub></del> I would not suggest poking around any further.  
 
 ### stuff I do or like
 - 💪 Current working on a Java agent written in Rust (unpublished, yet).
