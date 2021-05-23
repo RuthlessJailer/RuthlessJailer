@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey there 👋
 
-<!--
-**RuthlessJailer/RuthlessJailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![discord](https://img.shields.io/badge/RuthlessJailer%230001-Discord-36393f?logo=Discord&link=https://discord.gg/h3b5DYpNBu)
 
-Here are some ideas to get you started:
+I am ✨ _special_ ✨ because I exist, unlike you. <sub>wait then how are you reading this</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### you might not be able to tell, but I'm a developer
+
+
+### stuff I do or like
+- 💪 Current working on a Java agent written in Rust (unpublished, yet).
+- 📚 Reading books.
+- 🎶 Listening to music.
+- 🗡 Brutally killing zombies in VR (oh yeah, [Valve Index](https://www.valvesoftware.com/en/index)).
+- 🥋 Tae Kwon Doe (currently a 🔴 belt).
+- ⚡ Fun fact: I was born in Russia, have a dual-citizenship, and am bilingual.
+
+
+
+---
+
+## Stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=ruthlessjailer&theme=algolia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats/)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthlessjailer&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats/)
