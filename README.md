@@ -2,6 +2,8 @@
 
 [![discord](https://img.shields.io/badge/RuthlessJailer%230001-Discord-36393f?logo=Discord)](https://discord.gg/h3b5DYpNBu)
 
+# Make sure you check out my [website](https://www.ruthlessjailer.com/)
+
 I am ✨ _special_ ✨ because I exist, unlike you. <sub>wait then how are you reading this</sub>
 
 ### you might not be able to tell, but I'm a developer
