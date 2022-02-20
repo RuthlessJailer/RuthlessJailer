@@ -11,19 +11,13 @@ I am ✨ _special_ ✨ because I exist, unlike you. <sub>wait then how are you r
 If nerd stuff scares you, then <del><sub>why are you here</sub></del> I would not suggest looking any further.  
 
 #### stuff I do or like
-- 💪 Current working on a Java agent written in Rust (unpublished, yet).
-- 📚 Reading books.
-- 🎶 Listening to music.
-- 🗡 Brutally killing zombies in VR (oh yeah, [Valve Index](https://www.valvesoftware.com/en/index)).
-- 🥋 Tae Kwon Doe (currently a 🔴 belt).
-- ⚡ Fun fact: I was born in Russia, have a dual-citizenship, and am bilingual.
-
-#### this summer I plan to
-- 🚗 Buy and rebuild a truck.
-- 📖 Read a lot.
-- 🅰 Get a CompTIA A+ certification.
-- 🏊‍♂️ Do swim team.
-
+- 🅿 Pushin' P
+- 🎮 Currently Exploring C for TI-84 CE Assembly programming
+- 🥱 Bypassing Java security
+- 🎶 Listening to _real_ rap & hip-hop
+- 🗡 Defaulting on noobs in Population:ONE (oh yeah, [Valve Index](https://www.valvesoftware.com/en/index))
+- 🥋 Tae Kwon Doe (⚫ belt)
+- ⚡ Fun fact: I was born in Russia, have a dual-citizenship, and am bilingual
 
 ---
 
@@ -33,5 +27,7 @@ If nerd stuff scares you, then <del><sub>why are you here</sub></del> I would no
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthlessjailer&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats/)
 
 ---
+
+Unfortunately, my public GitHub is pretty inactive right now as I've been working exclusively on private projects for the past ~6 months. **If you would like to see more recent code, I can create a "demo" repo with some various classes and structures.**
 
 ### ↓ look at my cool repositories and commit graph ↓
