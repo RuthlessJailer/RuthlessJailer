@@ -2,8 +2,6 @@
 
 [![discord](https://img.shields.io/badge/RuthlessJailer%230001-Discord-36393f?logo=Discord)](https://discord.gg/h3b5DYpNBu)
 
-# Make sure you check out my [website](https://www.ruthlessjailer.com/)
-
 I am ✨ _special_ ✨ because I exist, unlike you. <sub>wait then how are you reading this</sub>
 
 ### you might not be able to tell, but I'm a developer
@@ -28,6 +26,7 @@ If nerd stuff scares you, then <del><sub>why are you here</sub></del> I would no
 
 ---
 
-Unfortunately, my public GitHub is pretty inactive right now as I've been working exclusively on private projects for the past ~6 months. **If you would like to see more recent code, I can create a "demo" repo with some various classes and structures.**
+Unfortunately, my public GitHub is pretty inactive right now as I've been working exclusively on private projects for the past ~6 months. 
+#### Upon request, I can create a "demo" repo with some various classes/structures. I will be happy to send some Videos/GIFs of recent projects as well!
 
 ### ↓ look at my cool repositories and commit graph ↓
